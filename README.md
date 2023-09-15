@@ -15,5 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#Aqui realizando prueba
-#Quien soy 
+# ¡Hola! 👋 Soy Jossy Benitez
+
+Desarrolladora web full stack con una pasión por crear soluciones web efectivas y seguras. Mi conjunto de habilidades incluye:
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Redux
+- Express
+- Node.js
+- Base de datos SQL
+
+## Sobre mí
+
+- 💼 Actualmente realizando pasantia en Arriendalo y desarrollando un proyecto personal.
+- 🌱 Siempre aprendiendo y mejorando mis habilidades
+- 👯 Abierta a colaboraciones en proyectos interesantes
+- 🤔 Buscando oportunidades para seguir creciendo
+- 💬 Pregúntame cualquier cosa sobre desarrollo web, seguridad en el trabajo o animación 3D
+- 📫 Puedes contactarme en jossybr94@gmail.com o https://www.linkedin.com/in/joselin-benitez-rivas-ab2575189
+
+- ⚡ Dato curioso: Disfruto del diseño, la actividad física y las caminatas ecológicas.
+
+¡Gracias por visitar mi perfil! Espero que podamos colaborar en futuros proyectos.
+
