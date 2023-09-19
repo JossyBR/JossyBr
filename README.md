@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 
 
 
-##¡Gracias por visitar mi perfil! Espero que podamos colaborar en futuros proyectos.
+## ¡Gracias por visitar mi perfil! Espero que podamos colaborar en futuros proyectos.
 
