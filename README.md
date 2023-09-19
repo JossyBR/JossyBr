@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # ¡Hola! 👋 Soy Jossy Benitez
-**Desarrolladora Web Full Stack** 
+**Desarrolladora Web Full Stack** 👩🏾👩🏾‍💻
 
 ## Sobre mí
 
-- 💼 Actualmente realizando pasantia en Arriendalo y desarrollando un proyecto personal.
+- 💼 Actualmente realizando pasantia en la empresa "Arriendalo" y desarrollando un proyecto personal.
 - 🌱 Siempre aprendiendo y mejorando mis habilidades
 - 👯 Abierta a colaboraciones en proyectos interesantes
 - 🤔 Buscando oportunidades para seguir creciendo
@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 - 📫 **Puedes contactarme a traves de:** [jossybr94@gmail.com](jossybr94@gmail.com)
 
 
-- Sigueme a traves de:
+- 🐾 **Sigueme a traves de:** 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joselin-benitez-rivas-ab2575189)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jossybnitez/)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jossybnitez/)
 
 
 
-## ¡Gracias por visitar mi perfil! Espero que podamos colaborar en futuros proyectos.
+## ¡Gracias por visitar mi perfil! Espero que podamos colaborar en futuros proyectos 👯.
 
