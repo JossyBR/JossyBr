@@ -16,14 +16,12 @@ Here are some ideas to get you started:
 
 Desarrolladora web full stack con una pasión por crear soluciones web efectivas y seguras. Mi conjunto de habilidades incluye:
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Redux
-- Express
-- Node.js
-- Base de datos SQL
+- <i class="fab fa-html5"></i> HTML
+- <i class="fab fa-css3"></i> CSS
+- <i class="fab fa-js"></i> JavaScript
+- <i class="fab fa-react"></i> React
+- <i class="fab fa-react"></i> Redux
+- <i class="fab fa-node"></i> Node.js
 
 ## Sobre mí
 
