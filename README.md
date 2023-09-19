@@ -36,8 +36,8 @@ Desarrolladora web full stack con una pasión por crear soluciones web efectivas
 
 
 ##Contactame
-- 📫 Puedes contactarme en **jossybr94@gmail.com**.
-- [Correo Electrónico](mailto:tucorreo@gmail.com)
+
+- [📫 Puedes contactarme en](jossybr94@gmail.com)
 
 
 - Sigueme a traves de mis redes sociales
@@ -46,5 +46,5 @@ Desarrolladora web full stack con una pasión por crear soluciones web efectivas
 
 
 
-¡Gracias por visitar mi perfil! Espero que podamos colaborar en futuros proyectos.
+##**¡Gracias por visitar mi perfil! Espero que podamos colaborar en futuros proyectos.**
 
