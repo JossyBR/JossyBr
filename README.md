@@ -13,8 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # ¡Hola! 👋 Soy Jossy Benitez
+Desarrolladora web full stack con una pasión por crear soluciones web efectivas y seguras. 
 
-Desarrolladora web full stack con una pasión por crear soluciones web efectivas y seguras. Mi conjunto de habilidades incluye:
+## Sobre mí
+
+- 💼 Actualmente realizando pasantia en Arriendalo y desarrollando un proyecto personal.
+- 🌱 Siempre aprendiendo y mejorando mis habilidades
+- 👯 Abierta a colaboraciones en proyectos interesantes
+- 🤔 Buscando oportunidades para seguir creciendo
+- 💬 Pregúntame cualquier cosa sobre desarrollo web, seguridad en el trabajo o animación 3D
+- ⚡ Dato curioso: Disfruto del diseño, la actividad física y las caminatas ecológicas.
+
+##Habilidades
 
 - ![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)  - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 
@@ -25,17 +35,10 @@ Desarrolladora web full stack con una pasión por crear soluciones web efectivas
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-
-## Sobre mí
-
-- 💼 Actualmente realizando pasantia en Arriendalo y desarrollando un proyecto personal.
-- 🌱 Siempre aprendiendo y mejorando mis habilidades
-- 👯 Abierta a colaboraciones en proyectos interesantes
-- 🤔 Buscando oportunidades para seguir creciendo
-- 💬 Pregúntame cualquier cosa sobre desarrollo web, seguridad en el trabajo o animación 3D
-- ⚡ Dato curioso: Disfruto del diseño, la actividad física y las caminatas ecológicas.
-- 
+##Contactame
 - 📫 Puedes contactarme en **jossybr94@gmail.com**.
+- [Correo Electrónico](mailto:tucorreo@gmail.com)
+
 
 - Sigueme a traves de mis redes sociales
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joselin-benitez-rivas-ab2575189)
