@@ -24,7 +24,7 @@ Desarrolladora web full stack con una pasión por crear soluciones web efectivas
 - 💬 Pregúntame cualquier cosa sobre desarrollo web, seguridad en el trabajo o animación 3D
 - ⚡ Dato curioso: Disfruto del diseño, la actividad física y las caminatas ecológicas.
 
-##Habilidades
+## Habilidades
 
 - ![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)  - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 
@@ -35,7 +35,7 @@ Desarrolladora web full stack con una pasión por crear soluciones web efectivas
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-##Contactame
+## Contactame
 
 - [📫 Puedes contactarme en](jossybr94@gmail.com)
 
@@ -46,5 +46,5 @@ Desarrolladora web full stack con una pasión por crear soluciones web efectivas
 
 
 
-##**¡Gracias por visitar mi perfil! Espero que podamos colaborar en futuros proyectos.**
+##¡Gracias por visitar mi perfil! Espero que podamos colaborar en futuros proyectos.
 
