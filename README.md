@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🤔 Buscando oportunidades para seguir creciendo
 - 💬 Pregúntame cualquier cosa sobre desarrollo web.
   
-- ⚡ **Dato curioso: Disfruto del diseño, la actividad física y las caminatas ecológicas.**
+- ⚡ **Dato curioso: Disfruto del animación 3D, la actividad física y las caminatas ecológicas.**
 
 ## Habilidades
 
