@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Sobre mí
 
-- 💼 Actualmente realizando pasantia en la empresa "Arriendalo" y desarrollando un proyecto personal.
+- 💼 Actualmente desarrollando un proyecto personal.
 - 🌱 Siempre aprendiendo y mejorando mis habilidades
 - 👯 Abierta a colaboraciones en proyectos interesantes
 - 🤔 Buscando oportunidades para seguir creciendo
