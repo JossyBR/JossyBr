@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 💼 Actualmente desarrollando un proyecto personal.
 - 🌱 Siempre aprendiendo y mejorando mis habilidades
-- 👯 Abierta a colaboraciones en proyectos interesantes
+- 👯 Abierta a colaboraciones en proyectos
 - 🤔 Buscando oportunidades para seguir creciendo
 - 💬 Pregúntame cualquier cosa sobre desarrollo web.
   
