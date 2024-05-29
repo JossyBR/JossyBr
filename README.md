@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - 🌱 Siempre aprendiendo y mejorando mis habilidades
 - 👯 Abierta a colaboraciones en proyectos
 - 🤔 Buscando oportunidades para seguir creciendo
-- 💬 Pregúntame cualquier cosa sobre desarrollo web.
   
 - ⚡ **Dato curioso: Disfruto del animación 3D, la actividad física y las caminatas ecológicas.**
 
